@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(53, 122, 99);
+    text-align: center;
+}
+.wins{
+    color: white;
+    font-size: 50px;
+}
+.game{
+    height: 69vh;
+    width: 70vh;
+    color: rgb(12, 0, 0);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.main{
+    background-color: rgb(247, 255, 246);
+    color: rgb(0, 0, 0);
+    font-size: 100px;
+    height: 21vh;
+    width: 21vh;
+    margin: 5px;
+    border-radius: 0.5rem;
+    border: none; 
+    box-shadow: 0 0 1rem rgba(0,0,0,0.3);
+
+}
+.container{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.bttn{
+    background-color: rgba(0, 0, 0, 0.955);
+    color: rgb(255, 255, 255);
+    border-radius: 0.6rem;
+    width: 130px;
+    height: 35px;
+    border: none;
+    font-size: 1.2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 36px;
+    margin-left: 17px;
+}
